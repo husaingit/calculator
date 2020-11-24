@@ -1,0 +1,45 @@
+.container {
+    text-align: center;
+    color: rgb(214, 208, 208);
+    font-size: 23px;
+}
+
+table {
+    margin: auto;
+}
+
+button {
+    height: 70px;
+    width: 70px;
+    font-size: 42px;
+    background-color: #d5d4ddbf;
+    border: 2px;
+    border-radius: 50%;
+    outline: none;
+}
+
+button:hover {
+    background-color: grey;
+    cursor: pointer;
+}
+
+input {
+    font-size: 25px;
+    height: 78px;
+    border-radius: 19px;
+}
+
+.calculator {
+    border: 2px solid black;
+    display: inline-block;
+    border-radius: 23px;
+}
+
+.calculator p {
+    background-color: aqua;
+}
+
+.display {
+    background-color: rgb(237, 241, 232);
+    color: rgb(0, 0, 0);
+}
